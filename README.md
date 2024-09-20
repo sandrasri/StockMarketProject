@@ -6,4 +6,6 @@ The project launches and gives you two different sets of user interfaces, one te
 
 ![StockMarketProject_Text](https://github.com/user-attachments/assets/a21bb867-2968-4824-8259-ee131c9dbf4d)
 
+![StockMarketProject](https://github.com/user-attachments/assets/b2a9386b-a516-4eab-9e97-8cbb836a9b0c)
+
 
